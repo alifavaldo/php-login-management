@@ -1,0 +1,6 @@
+@startuml
+
+    usecase mahasiswa
+    (dosen)
+
+@enduml
